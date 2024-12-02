@@ -14,7 +14,7 @@ const showMenu = ref(false)
         <div class="flex items-center justify-start w-1/4 h-full pr-4">
           <a
             href="/"
-            title="Sink"
+            title="EDUVERTICALS Sink Data"
             class="flex items-center py-4 space-x-2 text-xl font-black text-gray-900 dark:text-gray-100 md:py-0"
           >
             <span
@@ -22,11 +22,10 @@ const showMenu = ref(false)
             >
               <img
                 src="/sink.png"
-                alt="Sink"
+                alt="EDUVERTICALS"
                 class="w-full h-full rounded-full"
               >
             </span>
-            <span class="mx-2">Sink</span>
           </a>
         </div>
 
